@@ -1,0 +1,29 @@
+{
+  "personals": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "John@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "John@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "email": "John@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jane Doe",
+      "email": "John@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "email": "John@gmail.com"
+    }
+  ]
+}
